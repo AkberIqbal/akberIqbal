@@ -1,8 +1,10 @@
 [AkberIqbal](https://www.akberiqbal.com)
 
-Full Stack (MERN) Web developer, AWS Solutions Architect (AWS-SAA), Microsoft certified professional (MCTS, MCP), certified PMP
+Full Stack developer, AWS Solutions Architect (AWS-SAA), Microsoft certified professional (MCTS, MCP), certified PMP
 
-React, Angular, NodeJS, SQL, noSQL (Mongo DB, Dynamo DB, Firebase), IaaS (MS Azure, AWS ec2), FaaS (serverless: s3, Lambda, API Gateway), micro-services (REST-full API + graphQL) powered optimized, responsive, progressive web apps (PWAs), single page applications (SPA), customized branding (CSS3, Bootstrap 3/4, Material, stlyed-components) for corporate public-facing websites
+Head of Engineering & DevOps at PwC Australia’s AI Center of Excellence, I lead an eight-person full-stack team and stay hands-on across architecture, cloud, and code. As an AWS Solutions Architect Associate, I design and deliver GenAI and agentic applications hosted in Azure—built with retrieval pipelines, context engineering, and secure OAuth2 flows through Microsoft Entra. These platforms run in production with thousands of active users and have passed PwC’s rigorous security and application readiness requirements.
+
+I focus heavily on engineering fundamentals that make teams consistently faster—CI/CD, Terraform-based IaC, observability, secure-by-default patterns, and reusable accelerators that remove repeated friction. My hands-on toolkit includes React, Next.js, NestJS/Node.js, TypeScript, PostgreSQL, Redis, and cloud-native patterns across Azure and AWS.
 
 - [Stack Overflow](https://stackoverflow.com/users/8757883/akber-iqbal?tab=profile)
 - [LinkedIn](https://au.linkedin.com/in/akberiqbal)
